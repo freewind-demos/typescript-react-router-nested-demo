@@ -1,4 +1,4 @@
-Webpack Config File Demo
+Webpack Router Demo
 ========================
 
 Put all settings in `webpack.config.js`
