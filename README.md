@@ -4,7 +4,6 @@ Webpack Router Demo
 Put all settings in `webpack.config.js`
 
 ```
-npm install -g webpack
 npm install
 webpack
 ```
