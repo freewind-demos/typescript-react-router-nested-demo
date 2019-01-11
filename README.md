@@ -1,11 +1,8 @@
 Webpack Router Demo
 ========================
 
-Put all settings in `webpack.config.js`
-
 ```
 npm install
-webpack
+npm run demo
 ```
 
-Then open `index.html` in your browser.
