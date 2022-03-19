@@ -14,8 +14,8 @@ export const App: FC<Props> = () => {
     <Link to={'/'}>to home</Link>
     <Routes>
       <Route path='/' element={<Home/>}/>
-      <Route path='/editor' element={<Editor/>}/>
-      <Route path='/previewer' element={<Previewer/>}/>
+      <Route path='editor' element={<Editor/>}/>
+      <Route path='previewer' element={<Previewer/>}/>
     </Routes>
   </div>;
 }

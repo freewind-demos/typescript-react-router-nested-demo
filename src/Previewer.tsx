@@ -6,7 +6,7 @@ type Props = {}
 
 export const Previewer: FC<Props> = ({}) => {
   return <div>
-    <div>Previewer</div>
+    <h3>Previewer</h3>
     <div>
       <div>This is the previewer</div>
       <div><Link to='/editor'>to editor</Link></div>
