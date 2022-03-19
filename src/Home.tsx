@@ -1,5 +1,5 @@
 import React, {FC} from 'react';
-import {Link} from 'react-router-dom';
+import {Link, Outlet} from 'react-router-dom';
 
 type Props = {}
 
@@ -10,5 +10,6 @@ export const Home: FC<Props> = ({}) => {
       <li><Link to="/editor">Editor</Link></li>
       <li><Link to="/previewer">Previewer</Link></li>
     </ul>
+    <Outlet/>
   </div>;
 }
