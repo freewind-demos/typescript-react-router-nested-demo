@@ -1,4 +1,4 @@
-Webpack Router Demo
+Typescript React Router Demo
 ========================
 
 ```
